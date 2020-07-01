@@ -13,3 +13,4 @@
 |  | GPU | 显卡 | ASUS GeForce RTX2070SUPER | &yen;70,000 | https://www.yodobashi.com/product/100000001004918245/ |  |
 |  |  |  | GeForce RTX2080Ti | &yen;150,000 |  | 欲を言えば2080Tiが欲しい！ |
 |  | 電源 | 電源 | 玄人志向 750W/90+ | &yen;10,800 | https://www.yodobashi.com/product/100000001003752199/ |  |
+|  |  |  | CORSAIR RM850 -2019- | https://www.yodobashi.com/product/100000001004485887/ | コルセアかっこいい |
